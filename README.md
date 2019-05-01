@@ -8,7 +8,7 @@ Install via Rubygems
 
     $ gem install pry-disasm
 
-  then add `require 'pry/disasm'` in your ruby code.
+  then add `require 'pry-disasm'` in your ruby code.
 
 OR ...
 
