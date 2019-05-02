@@ -1,5 +1,7 @@
 # PryDisasm [![Gem Version](https://badge.fury.io/rb/pry-disasm.svg)](http://badge.fury.io/rb/pry-disasm)
 
+A bunch of code was taken from [pry-internal](https://github.com/cout/pry-internal/tree/master/pry-disasm).
+
 Pry plugin that take a `Method object` or `ruby code` string,  and returns a String with the human readable instructions(YARV bytecode) for it.
 
 ## Getting Started

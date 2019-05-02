@@ -1,8 +1,8 @@
-require File.expand_path('../lib/pry/disasm/version', __FILE__)
+require File.expand_path('../lib/pry-disasm/version', __FILE__)
 
 Gem::Specification.new do |s|
   s.name                        = 'pry-disasm'
-  s.version                     = Pry::Disasm::VERSION
+  s.version                     = PryDisasm::VERSION
   s.date                        = Time.now.strftime('%F')
   s.required_ruby_version       = '>= 1.9'
   s.authors                     = ['Billy.Zheng(zw963)']
